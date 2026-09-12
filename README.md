@@ -1,7 +1,7 @@
 # Hi there! Welcome 👋
-A full-stack developer with **current** experiences focused on business and analytics system development/maintenance.
+A full-stack developer with **current** experience focused on business and analytics system development/maintenance.
 
-Currently studying at the University of Washington (Seattle Campus)! I am always looking for fun and interesting project work on! Please do feel free to contact me!
+Currently studying at UW! I am always looking for fun and interesting project work on! Please do feel free to contact me!
 - 🌱 Currently working on a [simple .LRC editor](https://github.com/sonikkk-526/Lyrics-Editor-for-.LRC).
 - 🔭 Passionate in Computer Science (especially in SE, AI/ML, HCI).
 - 😄 Hobbies: Audiophile🎧, Hardware🖥, Sport Bikes🏍️
